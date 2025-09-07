@@ -68,4 +68,9 @@ Export – save as PNG or GIF
 Licensed under the MIT License. See LICENSE
  for details.
 
+☕ Support If you find this tool useful, drop a ⭐ or fork it.
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
+
+
 🔥 Stay Safe, Hack Smart.
+
